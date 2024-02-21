@@ -1,0 +1,31 @@
+body{
+    font-size: 30px;
+    font-family: monospace;
+    color: rgb(171, 226, 255);
+    background-color: darkslategrey;
+}
+
+.container{
+    padding-top: 200px;
+    width: 40%;
+    margin:auto;
+}
+
+a{
+    color: rgb(255, 191, 234);
+}
+
+a:hover{
+    color: rgb(195, 195, 255)
+}
+
+li{
+    list-style: circle;
+}
+
+.ds{
+    position: absolute;
+    top: 300px;
+    left: 900px;
+
+}

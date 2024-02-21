@@ -1,0 +1,27 @@
+body{
+    padding-top: 60px;
+	background-color: linen;
+	color: rgb(184, 2, 2);
+
+    width: 60%;
+    margin: auto;
+
+
+    .helvetica {font-family: Helvetica; }
+
+}
+
+a {
+    color: brown;
+}
+
+a:hover{
+    color: rgb(229, 103, 0);
+}
+
+
+.images{
+    text-align: center;
+}
+
+

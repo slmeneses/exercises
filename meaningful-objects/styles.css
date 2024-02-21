@@ -1,0 +1,65 @@
+body{
+    padding-top: 60px;
+    background-color: rgb(52, 38, 38);
+    color: rgb(250, 208, 236);
+
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+a{
+    color: rgb(255, 241, 201);
+}
+
+.book{
+    position: absolute;
+    top: 315px;
+    left: 130px;
+
+}
+
+.waterbottle{
+    position: absolute;
+    top: 300px;
+    left: 940px;
+
+}
+
+.popmart{
+    position: absolute;
+    top: 320px;
+    left: 680px;
+
+}
+
+.piggy{
+    position: absolute;
+    top: 320px;
+    left: 440px;
+
+}
+
+.box{
+    position:absolute;
+    top: 340;
+    left: 1120;
+
+}
+
+@font-face{
+    font-family: NotoSansMono;
+    src: url(fonts/NotoSansMono-Regular.woff);
+}
+
+body{
+    font-family: 'NotoSansMono-Regular';
+}
+
+.description{
+    position: static;
+    padding-top: 50px;
+    margin: auto;
+    width: 600px;
+    text-align: center;
+}
