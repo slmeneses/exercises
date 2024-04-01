@@ -31,7 +31,7 @@ body {
     height: 200px;
     top: 0px; 
     left: 15%; 
-    animation-delay: 1s; 
+    animation-delay: -1s; 
 }
 
 .circle2 {
@@ -39,7 +39,7 @@ body {
     height: 220px;
     top: 20%; 
     left: 70%; 
-    animation-delay: 2s; 
+    animation-delay: -2s; 
 }
 
 .circle3 {
@@ -47,7 +47,7 @@ body {
     height: 280px;
     top: 80%; 
     left: 40%; 
-    animation-delay: 3s; 
+    animation-delay: -3s; 
 }
 
 .circle4 {
@@ -55,7 +55,7 @@ body {
     height: 300px;
     top: 40%; 
     left: 0%; 
-    animation-delay: 4s; 
+    animation-delay: -4s; 
 }
 
 .circle5 {
@@ -63,7 +63,7 @@ body {
     height: 240px;
     top: 30%; 
     left: 20%; 
-    animation-delay: 5s; 
+    animation-delay: -5s; 
 }
 
 .circle6 {
@@ -71,35 +71,35 @@ body {
     height: 340px;
     top: 75%; 
     left: 90%; 
-    animation-delay: 6s; 
+    animation-delay: -6s; 
 }
 .circle7 {
     width: 390px;
     height: 390px;
     top: -10%; 
     left: -20%; 
-    animation-delay: 8s; 
+    animation-delay: -8s; 
 }
 .circle8 {
     width: 300px;
     height: 300px;
     top: 80%; 
     left: -20%; 
-    animation-delay: 9s; 
+    animation-delay: -9s; 
 }
 .circle9 {
     width: 350px;
     height: 350px;
     top: 0%; 
     left: 90%; 
-    animation-delay: 10s; 
+    animation-delay: -10s; 
 }
 .circle10 {
     width: 280px;
     height: 280px;
     top: 50%; 
     left: 75%; 
-    animation-delay: 12s; 
+    animation-delay: -12s; 
 }
 
 .circle11 {
@@ -107,7 +107,7 @@ body {
     height: 420px;
     top: 75%; 
     left: 15%; 
-    animation-delay: 2s; 
+    animation-delay: -2s; 
 }
 
 .circle12 {
@@ -115,42 +115,42 @@ body {
     height: 320px;
     top: 35%; 
     left: 40%; 
-    animation-delay: 1s; 
+    animation-delay: -1s; 
 }
 .circle13 {
     width: 370px;
     height: 370px;
     top: 0%; 
     left: 35%; 
-    animation-delay: 12s; 
+    animation-delay: -12s; 
 }
 .circle14 {
     width: 200px;
     height: 200px;
     top: 50%; 
     left: -20%; 
-    animation-delay: 5s; 
+    animation-delay: -5s; 
 }
 .circle15 {
     width: 190px;
     height: 190px;
     top: 60%; 
     left: 60%; 
-    animation-delay: 2s; 
+    animation-delay: -2s; 
 }
 .circle16 {
     width: 300px;
     height: 300px;
     top: 90%;
     left: 60%; 
-    animation-delay: 10s; 
+    animation-delay: -10s; 
 }
 .circle17 {
     width: 160px;
     height: 160px;
     top:45%; 
     left: 100%; 
-    animation-delay: 4s; 
+    animation-delay: -4s; 
 }
 
 .circle18 {
@@ -158,7 +158,7 @@ body {
     height: 235px;
     top: -10%; 
     left: 70%; 
-    animation-delay: 5s; 
+    animation-delay: -5s; 
 }
 
 .circle19 {
@@ -174,7 +174,7 @@ body {
     height: 280px;
     top: 100%; 
     left: 0%; 
-    animation-delay: 12s; 
+    animation-delay: -12s; 
 }
 
 @keyframes pulse {
